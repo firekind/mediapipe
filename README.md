@@ -8,6 +8,9 @@ nav_order: 1
 
 --------------------------------------------------------------------------------
 
+## This Fork
+For manjaro linux and opencv4.
+
 ## Live ML anywhere
 
 [MediaPipe](https://google.github.io/mediapipe/) offers cross-platform, customizable
